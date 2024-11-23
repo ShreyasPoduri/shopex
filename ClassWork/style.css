@@ -1,0 +1,130 @@
+p{ 
+    
+    font-family:sans-serif ;
+    font-size: 20px;
+    color:#FFFFFF ;
+    text-align: center;
+    font-weight: 400;
+
+ }
+ h1{ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-size: 100px;
+    color: #FFFFFF;
+    text-align: center;
+    font-weight: 600;
+
+ }
+ h2{ 
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font: size 70px;
+    color:#FFFFFF ;
+    text-align: center;
+    font-weight: 350;
+ }
+ h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font: size 50px;
+    color: #FFFFFF ;
+    text-align: center;
+    font-weight: 450;
+
+ }
+ li
+ {text-align:center ;
+font-size:32px ; 
+float: left;
+color: #FFFFFF;
+}
+ 
+ 
+ ol
+ {text-align: center;
+list-style-position:inside  ;}
+
+ul
+ {text-align: center;
+list-style-position:inside  ;
+list-style-type: none;
+margin: 0;
+padding: 0;}
+
+ body {text-align: center; }
+
+ table{text-align: center ;
+border:5px solid#FFFFFF ;
+border-spacing:7.5px ;
+font-size: 25px ;  color: #FFFFFF;}
+
+
+.Books
+{width:100% ;
+height:400px ;
+padding:30px ; display: flex; justify-content: space-between; }
+
+.booksnames{width:30% ; 
+height: 350px; text-align: center;
+padding-top:50px ;}
+
+
+.booksimg{width:50% ;
+height: 350px; 
+}
+.booksimg img{ width:25% ;
+height: 350px;
+ margin:15px ;}
+
+ nav{padding: 20px;
+
+   background-color:#1F3A5F ;
+width:100% ;
+height:70px ;
+border:5px solid #3D5A80;
+border-radius: 20px;
+box-shadow: 10px 6px 8px #cee8ff;
+}
+
+li a{
+   text-align: center;
+   text-decoration: none;
+   padding: 14px 26px;
+   color: #e0e0e0;
+   display: block;
+}
+li a:hover{background-color:#4d648d;
+color: #FFFFFF;
+font-size: 34px;}
+
+img {border:5px solid white;
+border-radius: 10px;
+box-shadow: 5px 4px 8px #cee8ff;}
+
+header{position: ; width:100% ;
+}
+.header{position: fixed;top: 0;
+left: 0;width: 100%; height: 250px; }
+.Picture{background-image: url("https://st2.depositphotos.com/1826664/7195/i/450/depositphotos_71956967-stock-photo-contact-us-circles-blue-squares.jpg");
+    width: 100%;
+    height: 400px; background-repeat: no-repeat;
+    background-size:100% 100%;}
+    
+    .contact{width: 100%;
+     height: 300px;
+     background-color:black; display: flex;
+    padding: 30px; justify-content: space-evenly;}
+    
+     .card1{width: 500px;
+     height: 300px;
+     background-color: ;}
+    
+     .card1 h1{font-size:50px;
+    font-family:serif ;}
+    
+    .XtraText{width: 100%;
+    height: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black; padding: 30px;}
+    td img{height: 600px; width: 360px;}
+   .register td{padding: 20px; width: 300px;}
+   input{width: 300px; height: 40px;}
+   .Date{font-size: 200px;}
